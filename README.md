@@ -75,7 +75,7 @@ Para esto ejecutaremos este comando para ver que se a creado correctamente:
 
 Si todo va bien debería devolver un output parecido a este: 
 
-![img](~/Imágenes/Screenshots/2026-02-11-123948_hyprshot.png)
+![img](./imgs/2026-02-11-123948_hyprshot.png)
 
 Y despues debemos entrar a los logs del contenedor para verificar que se no hay ningún problema 
 
